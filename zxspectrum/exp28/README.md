@@ -19,7 +19,6 @@ SYMBOL SHIFT key is mapped to Alt Gr (or right Alt) key in the PC keyboard.
 -   Easter egg (!!) restored for A100T and A200T versions (A35T took all the available memory so we couldn't keep the easter egg code in it)
     -   Wait! You don't know about the ZXUNO easter egg? Just ask ;)
 -   Current issues
-    -   RTC module doesn't seem to work, although it could be just my unit.
     -   No sound through DisplayPort yet :(
 
 ## Version 280723 First public version for ZXTRES platform. Features:
