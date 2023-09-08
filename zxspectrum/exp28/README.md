@@ -10,6 +10,11 @@ SYMBOL SHIFT key is mapped to Alt Gr (or right Alt) key in the PC keyboard.
 
 # Changelog
 
+## Version 080923
+
+- Added second UART for faster and more reliable comunication with the RP2040 in the middleboard
+- Slowed down a bit the speed of core loading from flash, as some issues have been observed in some boards, about not being able to generate DP/VGA outputs
+
 ## Version 070823
 
 -   Fixed SRAM management. Now the core correctly detects and use the complete 2 MB SRAM chip. You should see that in the boot screen.
