@@ -10,6 +10,11 @@ SYMBOL SHIFT key is mapped to Alt Gr (or right Alt) key in the PC keyboard.
 
 # Changelog
 
+## Version 090923
+
+- Messed up with ICAPE primitive, not allowing core loads from flash. Now it's (hopefully) fixed.
+- Wonder what other things are broken because of this :\  OK! I know about the RTC issue. Working on that!
+  
 ## Version 080923
 
 - Added second UART for faster and more reliable comunication with the RP2040 in the middleboard
