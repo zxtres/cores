@@ -3,3 +3,4 @@
 20230924 - 3.01.11 version - All boards: working RGB, VGA
 20240117 - 3.02.01 version - Working RGB, VGA - tested on: a35t, a200t
 20240118 - 3.02.01 version - Working DP, RGB, VGA - tested on: a35t
+20240317 - 3.02.01 version - With reg 0x0F updated to 2 (KS) - tested on: a35t
